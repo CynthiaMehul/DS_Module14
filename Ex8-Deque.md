@@ -1,5 +1,5 @@
-# Ex8 Deque
-## DATE: 24.04.2025
+# Ex 2C Deque
+## DATE:
 ## AIM:
 To write a C function to count the number of elements present in the deque.
 
